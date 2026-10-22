@@ -1,0 +1,16 @@
+{
+  "name": "community-harvest",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Weekly harvest pooling for a farming co-op, with prices entered after the collector office visit.",
+  "type": "module",
+  "engines": {
+    "node": ">=24.0.0"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "test": "node --test test/*.test.js",
+    "icons": "node scripts/make-icons.mjs"
+  }
+}

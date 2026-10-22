@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Community Harvest">
+  <rect width="512" height="512" rx="112" fill="#123524"/>
+  <circle cx="256" cy="296" r="138" fill="#c4552d"/>
+  <ellipse cx="208" cy="252" rx="58" ry="36" transform="rotate(-32 208 252)" fill="#f8f3e6" opacity=".16"/>
+  <path d="M252 178c-4-34-8-54-8-76" stroke="#2f5d33" stroke-width="16" stroke-linecap="round" fill="none"/>
+  <g fill="#7fb069">
+    <ellipse cx="256" cy="158" rx="34" ry="62" transform="rotate(0 256 158)"/>
+    <ellipse cx="198" cy="172" rx="30" ry="58" transform="rotate(-40 198 172)"/>
+    <ellipse cx="314" cy="172" rx="30" ry="58" transform="rotate(40 314 172)"/>
+  </g>
+  <g fill="#98c07c">
+    <ellipse cx="224" cy="140" rx="26" ry="52" transform="rotate(-22 224 140)"/>
+    <ellipse cx="288" cy="140" rx="26" ry="52" transform="rotate(22 288 140)"/>
+  </g>
+  <circle cx="200" cy="330" r="10" fill="#f8f3e6" opacity=".22"/>
+  <circle cx="308" cy="360" r="14" fill="#f8f3e6" opacity=".14"/>
+</svg>

@@ -1,0 +1,33 @@
+{
+  "name": "Community Harvest",
+  "short_name": "Harvest",
+  "description": "One shared weekly harvest list for our farming families. Prices are entered after the collector office visit.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f8f3e6",
+  "theme_color": "#123524",
+  "lang": "en-IN",
+  "categories": ["food", "productivity", "utilities"],
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
